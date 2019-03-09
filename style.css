@@ -1,0 +1,70 @@
+.navbar {
+    background-color: rgb(211, 236, 243) !important;
+} 
+
+.authname {
+    max-width: 960px;
+    
+}
+
+.container {
+    max-width: 960px;
+}
+
+.navbar .navbar-nav li a {
+    color: #36362d !important;
+}
+
+.navbar  .navbar-brand  {
+    padding: 10px;
+    height: 100%;
+    background-color: #4aaaa5 ;
+    font-size: 200%;
+}
+
+body {
+    background: url(Images/ricepaper.png); 
+}
+
+.navbar-toggler {
+    background-color: #63548d;
+}
+
+ .fixed-bottom {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.my-container {
+   
+    border: 3px solid brown;
+    max-width: 960px;
+    margin-left: auto;
+}
+
+#exampleInputMessage {
+    height: 150px;
+    text-align: 
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    
+}
+.carousel-caption h3{
+    
+        position: relative;
+        
+        padding: 5px;
+        margin-bottom: 0;
+        font-weight: 300;
+        
+        color: #ffffff;
+        text-align: center;
+        background-color: #4aaaa5;
+        border-bottom: 0;
+      
+    
+    
+}
