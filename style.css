@@ -18,10 +18,16 @@
 }
 
 .navbar  .navbar-brand  {
+    font-family: 'Lobster', cursive;
     padding: 10px;
     height: 100%;
     background-color: #4aaaa5 ;
     font-size: 200%;
+}
+
+.navbar p {
+    font-family: 'Lobster', cursive;
+    font-weight: 500;
 }
 
 body {
@@ -58,10 +64,16 @@ h1 {
     font-family: 'Lobster', cursive;
 }
 
+p {
+    font-family: Crimson Text, serif;
+    font-size: 120%;
+}   
+
 .Authimage  img {
     height: 200px;
     width: 200px;
     padding: 10px;
+    
     
 }
 
@@ -99,7 +111,7 @@ img {
     padding: 15px;
     padding-right: 15px;
     margin-bottom: 0;
-    
+    font-family: 'Mr Dafoe', cursive;
     font-weight: 300;
     line-height: 20px;
     color: #ffffff;
